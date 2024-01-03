@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.8">
+      <module name="sports.domain" target="17" />
+      <module name="sports.domain.main" target="17" />
+      <module name="sports.domain.test" target="17" />
+      <module name="sports.expanded" target="17" />
+      <module name="sports.expanded.main" target="17" />
+      <module name="sports.expanded.test" target="17" />
+      <module name="sports.model" target="17" />
+      <module name="sports.model.main" target="17" />
+      <module name="sports.model.test" target="17" />
+      <module name="sports.simple" target="17" />
+      <module name="sports.simple.main" target="17" />
+      <module name="sports.simple.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

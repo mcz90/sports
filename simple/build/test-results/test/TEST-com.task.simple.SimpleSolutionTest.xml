@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.task.simple.SimpleSolutionTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-01-03T21:21:10" hostname="Michas-MBP" time="0.017">
+  <properties/>
+  <testcase name="Returns first element when more than one top sport is present()" classname="com.task.simple.SimpleSolutionTest" time="0.013"/>
+  <testcase name="Finds the top sport in the list()" classname="com.task.simple.SimpleSolutionTest" time="0.0"/>
+  <testcase name="Returns null from empty result list()" classname="com.task.simple.SimpleSolutionTest" time="0.001"/>
+  <testcase name="Returns null from empty input list()" classname="com.task.simple.SimpleSolutionTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

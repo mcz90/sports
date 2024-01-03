@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.task.expanded.ExpandedSolutionTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-01-03T21:21:11" hostname="Michas-MBP" time="0.02">
+  <properties/>
+  <testcase name="Finds the top sport in the list as TopDistanceSportResult Single()" classname="com.task.expanded.ExpandedSolutionTest" time="0.015"/>
+  <testcase name="Returns EmptyInputError input list is empty()" classname="com.task.expanded.ExpandedSolutionTest" time="0.001"/>
+  <testcase name="Returns EmptyResultError filtered list is empty()" classname="com.task.expanded.ExpandedSolutionTest" time="0.0"/>
+  <testcase name="Finds the top sports in the list as TopDistanceSportResult Multiple()" classname="com.task.expanded.ExpandedSolutionTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
